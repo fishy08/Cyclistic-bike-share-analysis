@@ -146,8 +146,8 @@ Introduce a 3-day weekend pass (Fri–Sun) as a stepping-stone product in off-pe
 ## Presentation
 
 The full slide deck is available in this repository:
-- 📊 [`Cyclistic_Bike_Share.pdf`](Cyclistic_Bike_Share.pdf) — view in browser
-- 📁 [`Cyclistic_Bike_Share.pptx`](Cyclistic_Bike_Share.pptx) — download and edit
+- 📊 [`Cyclistic_Bike_Share_Analysis.pdf`](Cyclistic_Bike_Share_Analysis.pdf) — view in browser
+- 📁 [`Cyclistic_Bike_Analysis.pptx`](Cyclistic_Bike_Analysis.pptx) — download and edit
 
 ---
 
