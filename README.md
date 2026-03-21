@@ -52,8 +52,8 @@ Before analysis, the dataset was audited for quality issues. The following recor
 | Negative `ride_length` | Excluded | End time before start time is physically impossible — data entry or system error |
 | `ride_length` > 24 hours | Excluded | Likely undocked return; treated as clocking error, not a genuine trip |
 | `ride_length` < 2 minutes | Excluded | Consistent with equipment faults or aborted starts, not completed journeys |
-| Blank rows | Excluded | Rows missing key fields (timestamps, station, rider type) cannot be used in aggregations |
-| Duplicate records | Excluded | Identical ride_id + timestamps removed to avoid double-counting |
+| Blank rows | Excluded | Rows missing key fields (timestamps and ride ID) cannot be used in aggregations |
+| Duplicate records | Excluded | Identical ride_id removed to avoid double-counting |
 
 ---
 
