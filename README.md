@@ -157,3 +157,5 @@ The full slide deck is available in this repository:
 Google Data Analytics Professional Certificate — Capstone Project  
 
 *This analysis was completed as part of the Google Data Analytics Certificate programme. Cyclistic is a fictional company; the dataset is provided by Motivate International Inc. under public licence.*
+
+🔗 [Case Study 2: Bellabeat smart device analysis](https://github.com/fishy08/bellabeat-smart-device-analysis)
